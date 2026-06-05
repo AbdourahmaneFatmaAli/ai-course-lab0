@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
 
-### Environment Setup • Python • Git • Data Science Foundations
+### Environment Setup • Python • Git 
 
 </div>
 
