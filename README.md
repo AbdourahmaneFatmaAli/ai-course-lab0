@@ -1,5 +1,13 @@
+<div align="center">
 
-# AI Course Lab 0 
+# 🚀 AI Course Lab 0
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
+
+### Environment Setup • Python • Git • Data Science Foundations
+
+</div>
+
 
 ## Student Information
 **Name:** Fatma Ali Abdourahmane  
